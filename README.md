@@ -3,6 +3,7 @@
 # 👋 Hey there, I'm Hephzibah Ranjan  
 
 💻 A passionate **Full-Stack Developer** who loves building scalable products and solving complex problems through **code and consistency**.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hephzibah7&label=Profile%20views&color=0e75b6&style=flat" alt="vyom-26" /> </p>
 
 ---
 
