@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hey there, I'm [Your Name]  
+# 👋 Hey there, I'm Hephzibah Ranjan  
 
 💻 A passionate **Full-Stack Developer** who loves building scalable products and solving complex problems through **code and consistency**.  
 
@@ -13,7 +13,8 @@
   - Solved **700+ problems** on **LeetCode**  
   - Active on **GeeksforGeeks, Codeforces, and CodeChef**  
 - 🎯 Known for **consistency and hard work** – qualities that reflect in my academics, hobbies, and projects  
-- 🔍 Always exploring new ways to improve backend systems and build interactive user experiences  
+- 🔍 Always exploring new ways to improve backend systems and build interactive user experiences
+- Hobbies- I love learning new languages-currently learning Korean, Sketching, Playing Piano
 
 ---
 
@@ -32,17 +33,16 @@
 ## 📊 Competitive Programming Profiles  
 
 - 🟢 [LeetCode](https://leetcode.com/) – 700+ problems solved  
-- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/)  
-- 🟢 [CodeChef](https://www.codechef.com/)  
-- 🟢 [Codeforces](https://codeforces.com/)  
+- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/user/hephzibahranjan/)  
+- 🟢 [Codeforces](https://codeforces.com/profile/DevDiva)  
 
 ---
 
 ## 📈 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hephzibah7E&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hephzibah&&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hephzibah7&theme=tokyonight)  
 
 ---
 
@@ -56,8 +56,8 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hephzibah-ranjan-72511a228/)  
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail)](mailto:hephzibahranjan@gmail.com)  
 
 ---
 
