@@ -160,6 +160,10 @@ I regularly practice:
 
 A full-stack marketplace designed to connect **artists and customers** and support both artwork sales and custom commissions.
 
+<p align="center">
+  <img src="./frontend/src/assets/wallpaper.png" width="900" />
+</p>
+
 ### What I built
 
 * Artist profiles and portfolios
