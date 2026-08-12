@@ -8,15 +8,19 @@
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently diving deep into **Spring Boot** and backend architectures  
-- ⚡ Strong foundation in the **MERN Stack** (MongoDB, Express, React, Node.js)  
-- 🧩 Passionate about **Competitive Programming**  
-  - Solved **700+ problems** on **LeetCode**  
-  - Active on **GeeksforGeeks, Codeforces, and CodeChef**  
-- 🎯 Known for **consistency and hard work** – qualities that reflect in my academics, hobbies, and projects  
-- 🔍 Always exploring new ways to improve backend systems and build interactive user experiences
-- Hobbies- I love learning new languages-currently learning Korean, Sketching, Playing Piano
+## About Me  
+- Currently diving deep into **Spring Boot** and backend architectures  
+- Strong foundation in the **MERN Stack** (MongoDB, Express, React, Node.js)
+- Word
+- Passionate about **Competitive Programming**  
+- Solved **1000+ problems** on **LeetCode**  
+- Active on **GeeksforGeeks, Codeforces, and CodeChef**  
+- Always exploring new ways to improve backend systems and build interactive user experiences
+Hobbies-
+I genuinely love reading books-
+Currently reading-
+Madam Curie by Eve Curie
+-Worked at a startup to build a full stack development product from SRS to deployment everything was carried out by team of three.
 
 ---
 
@@ -29,7 +33,8 @@
 - Backend development & scalable architectures  
 - Full-stack applications with real-time features  
 - Problem solving & algorithmic challenges  
-
+-Design Patterns
+-System Design and Architecture
 ---
 
 ## 📊 Competitive Programming Profiles  
@@ -50,9 +55,11 @@
 
 ## 🏗️ Projects & Work  
 
-🔹 **Interactive Social Media Platform** – MERN stack based with posts, stories, search, profile & notifications  
-🔹 **Dribbble Clone** – Responsive and interactive platform with MongoDB integration  
-🔹 **Full-stack Experiments** – Signup flows, LinkedIn-style post creation, responsive dashboards  
+🔹 **ArtSpace — Artist Marketplace** – Built a full-stack marketplace with polygot architecture connecting artists and customers, enabling artists to showcase and manage artwork while allowing users to discover, purchase, review, and commission custom artwork. Designed product and artist profiles, artwork discovery, reviews, custom commission workflows, artist availability, pricing, and portfolio sections. Implemented role-based functionality and REST APIs with a MERN-based architecture, with a focus on reusable UI components, responsive design, and scalable backend APIs.
+🔹 **Finance Dashboard & Portfolio Management System** – Built a full-stack financial analytics dashboard that allows users to monitor financial data, track portfolios, analyze transactions, and visualize key performance metrics through interactive dashboards. Designed REST APIs and backend services for managing users, financial records, and portfolio data, with database-backed persistence and secure authentication. Implemented interactive charts and filtering to transform raw financial data into actionable insights.
+🔹 **Conditional GAN for Fashion Image Generation** –Built a conditional Generative Adversarial Network using TensorFlow/Keras to generate 64×64 RGB fashion images based on structured attributes such as garment type, color, fabric, pattern, neckline, and sleeve style. Preprocessed ~5,000 fashion images and encoded 240 categorical attributes to condition both the generator and discriminator. Implemented the adversarial training pipeline with GPU acceleration and monitored generator/discriminator losses to improve training stability and controllability.
+    
+
 
 ---
 
