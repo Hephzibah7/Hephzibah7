@@ -149,7 +149,7 @@ I regularly practice:
 ### 🔥 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/hephzibah7?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats and Streak" />
+  <img src="https://leetcard.jacoblin.cool/Hermione7?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
