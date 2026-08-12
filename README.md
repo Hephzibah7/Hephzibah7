@@ -156,12 +156,19 @@ I regularly practice:
 
 # 🏗️ Featured Projects
 
-## 🎨 ArtSpace — Artist Marketplace
+# 🎨 ArtSpace — Artist Marketplace
 
-A full-stack marketplace designed to connect **artists and customers** and support both artwork sales and custom commissions.
+A full-stack marketplace connecting artists and customers through
+artwork discovery, purchasing, reviews, and custom commissions.
+
+## 🖼️ My Design
 
 <p align="center">
-  <img src="./frontend/src/assets/wallpaper.png" width="900" />
+  <img
+    src="https://raw.githubusercontent.com/Hephzibah7/ArtSpace/main/frontend/src/assets/wallpaper.png"
+    width="900"
+    alt="ArtSpace UI Design"
+  />
 </p>
 
 ### What I built
