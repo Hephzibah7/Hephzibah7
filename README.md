@@ -1,75 +1,433 @@
-## Hi there 👋
+# 👋 Hey, I'm Hephzibah Ranjan
 
-# 👋 Hey there, I'm Hephzibah Ranjan  
+### 💻 Software Engineer | Java • Spring Boot • Backend • Full Stack • DSA
 
-💻 A passionate **Full-Stack Developer** who loves building scalable products and solving complex problems through **code and consistency**.  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hephzibah7&label=Profile%20views&color=0e75b6&style=flat" alt="Hephzibah7" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hephzibah7" alt="Hephzibah7" /></a> </p>
+I’m a **2025 B.Tech CSE graduate** passionate about building reliable software, solving challenging algorithmic problems, and understanding how systems work beneath the surface.
 
----
+I enjoy going beyond simply making an application work — I like understanding **how to design it better, make it scalable, improve performance, and write maintainable code**.
 
-## About Me  
-- Currently diving deep into **Spring Boot** and backend architectures  
-- Strong foundation in the **MERN Stack** (MongoDB, Express, React, Node.js)
-- Word
-- Passionate about **Competitive Programming**  
-- Solved **1000+ problems** on **LeetCode**  
-- Active on **GeeksforGeeks, Codeforces, and CodeChef**  
-- Always exploring new ways to improve backend systems and build interactive user experiences
-Hobbies-
-I genuinely love reading books-
-Currently reading-
-Madam Curie by Eve Curie
--Worked at a startup to build a full stack development product from SRS to deployment everything was carried out by team of three.
+Currently, I'm going deeper into **Java, Spring Boot, System Design, Distributed Systems, Design Patterns, and Backend Architecture**.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hephzibah7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+# 🚀 About Me
 
-**Languages & Tools**  
-`Java` `JavaScript` `Spring Boot` `Node.js` `React` `MongoDB` `Express.js` `HTML` `CSS` `Tailwind CSS` `Git` `GitHub` `REST APIs`  
-
-**Interests**  
-- Backend development & scalable architectures  
-- Full-stack applications with real-time features  
-- Problem solving & algorithmic challenges  
--Design Patterns
--System Design and Architecture
----
-
-## 📊 Competitive Programming Profiles  
-
-- 🟢 [LeetCode](https://leetcode.com/) – 700+ problems solved  
-- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/user/hephzibahranjan/)  
-- 🟢 [Codeforces](https://codeforces.com/profile/DevDiva)  
+* 🎓 **B.Tech in Computer Science & Engineering — 2025**
+* 💻 Software Engineer Intern experience
+* 🧠 **1000+ DSA problems solved**
+* 🏆 Active on **LeetCode, Codeforces & GeeksforGeeks**
+* ☕ Currently focusing heavily on **Java & Spring Boot**
+* 🔧 Interested in **Backend Engineering & Distributed Systems**
+* 🏗️ Building projects that involve real-world business logic rather than simple CRUD
+* 🌐 Strong foundation in the **MERN stack**
+* 🧩 Interested in **System Design, Design Patterns & Software Architecture**
+* 📚 I genuinely love reading books
+* 📖 Currently reading ***Madam Curie* by Eve Curie**
+* 🚀 Previously worked with a small startup team where **three developers handled the complete product lifecycle — from SRS and development to deployment**
 
 ---
 
-## 📈 GitHub Stats  
+# 🧠 My Engineering Journey
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hephzibah7&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hephzibah7&&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hephzibah7&theme=tokyonight)  
+I started with full-stack development and gradually became more interested in what happens behind the API.
+
+That curiosity pushed me toward:
+
+```text
+Frontend
+   ↓
+REST APIs
+   ↓
+Backend Development
+   ↓
+Databases
+   ↓
+Transactions & Concurrency
+   ↓
+System Design
+   ↓
+Distributed Systems
+```
+
+Today, my primary focus is becoming a **strong backend/software engineer** who can understand both the application layer and the systems supporting it.
 
 ---
 
-## 🏗️ Projects & Work  
+# 💻 Tech Stack
 
-🔹 **ArtSpace — Artist Marketplace** – Built a full-stack marketplace with polygot architecture connecting artists and customers, enabling artists to showcase and manage artwork while allowing users to discover, purchase, review, and commission custom artwork. Designed product and artist profiles, artwork discovery, reviews, custom commission workflows, artist availability, pricing, and portfolio sections. Implemented role-based functionality and REST APIs with a MERN-based architecture, with a focus on reusable UI components, responsive design, and scalable backend APIs.
-🔹 **Finance Dashboard & Portfolio Management System** – Built a full-stack financial analytics dashboard that allows users to monitor financial data, track portfolios, analyze transactions, and visualize key performance metrics through interactive dashboards. Designed REST APIs and backend services for managing users, financial records, and portfolio data, with database-backed persistence and secure authentication. Implemented interactive charts and filtering to transform raw financial data into actionable insights.
-🔹 **Conditional GAN for Fashion Image Generation** –Built a conditional Generative Adversarial Network using TensorFlow/Keras to generate 64×64 RGB fashion images based on structured attributes such as garment type, color, fabric, pattern, neckline, and sleeve style. Preprocessed ~5,000 fashion images and encoded 240 categorical attributes to condition both the generator and discriminator. Implemented the adversarial training pipeline with GPU acceleration and monitored generator/discriminator losses to improve training stability and controllability.
-    
+### ☕ Backend & Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts" />
+</p>
+
+`Java` `Spring Boot` `Node.js` `Express.js` `JavaScript` `TypeScript`
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+</p>
+
+`React` `Next.js` `Tailwind CSS` `HTML` `CSS` `Vite`
+
+### 🗄️ Databases & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+`MongoDB` `MySQL` `PostgreSQL` `Redis`
+
+### 🛠️ Tools & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel" />
+</p>
+
+`Git` `GitHub` `Docker` `Postman` `Vercel` `REST APIs`
+
+### 🧩 Engineering Interests
+
+```text
+Backend Engineering
+System Design
+Distributed Systems
+Design Patterns
+Database Design
+REST API Design
+Authentication & Authorization
+Caching
+Concurrency
+Performance Optimization
+Algorithmic Problem Solving
+```
 
 ---
 
-## 🌐 Connect with Me  
+# 🧠 Competitive Programming
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hephzibah-ranjan-72511a228/)  
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail)](mailto:hephzibahranjan@gmail.com)  
+One of the biggest parts of my engineering journey has been consistently solving algorithmic problems.
+
+### 🟢 1000+ LeetCode Problems
+
+I regularly practice:
+
+* Data Structures & Algorithms
+* Dynamic Programming
+* Graphs
+* Trees
+* Greedy Algorithms
+* Binary Search
+* Sliding Window
+* Two Pointers
+* Recursion & Backtracking
+* Number Theory
+* Combinatorics
+* Advanced Problem-Solving Patterns
+
+### Profiles
+
+<p>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-1000%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/DevDiva">
+<img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/hephzibahranjan/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+### 🔥 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hephzibah7?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats and Streak" />
+</p>
 
 ---
 
-✨ *Consistency + Hard Work = Growth.*  
+# 🏗️ Featured Projects
 
+## 🎨 ArtSpace — Artist Marketplace
 
+A full-stack marketplace designed to connect **artists and customers** and support both artwork sales and custom commissions.
+
+### What I built
+
+* Artist profiles and portfolios
+* Artwork discovery and management
+* Artwork purchasing workflow
+* Reviews and ratings
+* Custom artwork commission workflow
+* Artist availability management
+* Commission pricing and medium selection
+* Size and artwork options
+* Role-based functionality
+* REST APIs
+* Responsive and reusable UI components
+
+### Engineering Focus
+
+```text
+React
+   ↓
+REST APIs
+   ↓
+Node.js / Express
+   ↓
+MongoDB
+   ↓
+Authentication & Role-based Access
+```
+
+The project focuses on implementing **real marketplace workflows** rather than simply creating a CRUD application.
+
+---
+
+## 💰 Finance Dashboard & Portfolio Management System
+
+A full-stack financial analytics platform designed to help users monitor financial information, manage portfolios, analyze transactions, and visualize important financial metrics.
+
+### Key Features
+
+* Financial dashboard
+* Portfolio tracking
+* Transaction management
+* Financial data visualization
+* Interactive charts
+* Filtering and analytics
+* User authentication
+* Database-backed persistence
+* RESTful backend APIs
+
+### Engineering Focus
+
+The primary focus was transforming raw financial data into meaningful information through:
+
+```text
+Financial Data
+      ↓
+Backend APIs
+      ↓
+Data Processing
+      ↓
+Database
+      ↓
+Interactive Dashboard
+      ↓
+Actionable Insights
+```
+
+---
+
+## 🤖 Conditional GAN — Fashion Image Generation
+
+Built a **Conditional Generative Adversarial Network** using TensorFlow/Keras to generate fashion images based on structured fashion attributes.
+
+### What I worked on
+
+* Preprocessed approximately **5,000 fashion images**
+* Worked with **64×64 RGB images**
+* Encoded approximately **240 categorical attributes**
+* Built the Generator
+* Built the Discriminator
+* Implemented the adversarial training pipeline
+* Configured GPU execution
+* Monitored Generator and Discriminator losses
+* Implemented conditional image generation
+
+The project gave me hands-on exposure to the engineering challenges involved in running ML workloads, including **data preprocessing, GPU utilization, batching, memory considerations, and training stability**.
+
+---
+
+# 🔮 Currently Building
+
+## 💳 Payment & Wallet System — Spring Boot
+
+A production-oriented backend system designed to simulate real-world payment and wallet workflows.
+
+### Planned Engineering Concepts
+
+* Spring Boot
+* PostgreSQL
+* Spring Security
+* JWT Authentication
+* Transaction management
+* Wallet operations
+* Peer-to-peer transfers
+* Idempotency
+* Concurrency control
+* Redis
+* Kafka
+* Event-driven architecture
+* Docker
+* Integration testing
+
+The goal is to move beyond basic CRUD and understand how **financial systems handle consistency, concurrency, duplicate requests, and asynchronous processing**.
+
+---
+
+# 🧩 CodeFlow — Developer Visualization Platform
+
+A developer-focused visualization platform designed to make recursive and dynamic-programming execution easier to understand.
+
+### Planned Stack
+
+```text
+React + TypeScript
+        ↓
+Spring Boot
+        ↓
+PostgreSQL
+```
+
+The platform focuses on visualizing:
+
+* Recursion trees
+* Function call stacks
+* DP recursion
+* Execution flow
+* State transitions
+
+The goal is to bridge the gap between **writing an algorithm and understanding how it actually executes**.
+
+---
+
+# 🏆 Other Projects
+
+### 🍳 RecipeFinder
+
+Full-stack recipe discovery platform with search, filtering, authentication, REST APIs, and database-backed recipe management.
+
+### 🛍️ FashionVilla
+
+Full-stack e-commerce application with product management, authentication, shopping cart, orders, and MySQL-backed backend services.
+
+### ✍️ Blog Platform
+
+Next.js blogging platform with Google/GitHub authentication, authenticated content management, responsive UI, and database-backed workflows.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hephzibah7&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hephzibah7&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hephzibah7&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hephzibah7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 📚 What I'm Learning
+
+Currently going deeper into:
+
+```text
+☕ Advanced Java
+🌱 Spring Boot
+🔐 Spring Security
+🗄️ Database Internals
+⚡ Redis & Caching
+📨 Kafka & Event-Driven Systems
+🔄 Distributed Systems
+🏗️ System Design
+🧩 Design Patterns
+🐳 Docker
+🧪 Testing & Testcontainers
+🚀 Performance & Scalability
+```
+
+---
+
+# 🎯 My Goal
+
+I want to become an engineer who can look at a problem and think beyond:
+
+> "How do I implement this?"
+
+and instead ask:
+
+> "How should this system be designed?"
+
+> "What happens when traffic increases?"
+
+> "What happens when two requests modify the same data?"
+
+> "How do we make this fault tolerant?"
+
+> "How do we keep the system consistent?"
+
+> "How can we make it observable and maintainable?"
+
+That's the direction I'm continuously working toward.
+
+---
+
+# 🌱 Beyond Code
+
+📚 **I love reading.**
+
+Currently reading:
+
+### *Madam Curie* — Eve Curie
+
+I enjoy reading because it gives me a perspective outside of technology and reminds me that meaningful achievements usually come from **curiosity, persistence, and consistency**.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+* Software Engineering opportunities
+* Backend Engineering
+* Java / Spring Boot
+* System Design
+* Distributed Systems
+* Interesting technical problems
+* Open-source collaboration
+* Learning from experienced engineers
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hephzibah-ranjan-72511a228/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:hephzibahranjan@gmail.com">
+<img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ✨ Consistency + Curiosity + Hard Work = Growth
+
+**Keep building. Keep learning. Keep solving. 🚀**
+
+</p>
