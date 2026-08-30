@@ -261,54 +261,10 @@ The project gave me hands-on exposure to the engineering challenges involved in 
 
 # 🔮 Currently Building
 
-## 💳 Payment & Wallet System — Spring Boot
+## 💳 Codescale
 
-A production-oriented backend system designed to simulate real-world payment and wallet workflows.
-
-### Planned Engineering Concepts
-
-* Spring Boot
-* PostgreSQL
-* Spring Security
-* JWT Authentication
-* Transaction management
-* Wallet operations
-* Peer-to-peer transfers
-* Idempotency
-* Concurrency control
-* Redis
-* Kafka
-* Event-driven architecture
-* Docker
-* Integration testing
-
-The goal is to move beyond basic CRUD and understand how **financial systems handle consistency, concurrency, duplicate requests, and asynchronous processing**.
-
----
-
-# 🧩 CodeFlow — Developer Visualization Platform
-
-A developer-focused visualization platform designed to make recursive and dynamic-programming execution easier to understand.
-
-### Planned Stack
-
-```text
-React + TypeScript
-        ↓
-Spring Boot
-        ↓
-PostgreSQL
-```
-
-The platform focuses on visualizing:
-
-* Recursion trees
-* Function call stacks
-* DP recursion
-* Execution flow
-* State transitions
-
-The goal is to bridge the gap between **writing an algorithm and understanding how it actually executes**.
+Purpose: Build a production-oriented SDE portfolio project demonstrating Java/Spring Boot, distributed systems,
+concurrency, secure code execution, databases, messaging, observability, Kubernetes, testing, and syste
 
 ---
 
